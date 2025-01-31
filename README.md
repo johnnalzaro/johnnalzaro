@@ -17,10 +17,14 @@
 
 I specialise in **UX/UI design**, **frontend development**, and **responsive web design**, ensuring that every interaction is smooth and engaging. My design concept revolves around usability, accessibility, and performance optimisation.
 
+Now I'm currently working on developing and designing for a website for hair salon business called Haeyoom.
+
 When I'm not designing, you can find me exploring new web trends, improving my skills in **Figma, HTML, CSS, and JavaScript**, and staying up to date with the latest in web development.
 
+Fun fact about me is I love coffee. A good coffee is a game changer.
+
 <!-- code gif-->
-<img align="right" alt="GIF" src="your-gif-link-here" width="500" height="320" />
+<img align="right" alt="GIF" src="https://dribbble.com/shots/11419536-Deep-Working" width="500" height="320" />
 
 - 🎨 **Design Tools:** Figma, Adobe XD, Sketch, Webflow, Framer, Squarespace
 
