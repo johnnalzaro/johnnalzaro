@@ -21,10 +21,9 @@ Now I'm currently working on developing and designing for a website for hair sal
 
 When I'm not designing, you can find me exploring new web trends, improving my skills in **Figma, HTML, CSS, and JavaScript**, and staying up to date with the latest in web development.
 
-Fun fact about me is I love coffee. A good coffee is a game changer.
 
 <!-- code gif-->
-<img align="right" alt="GIF" src="https://dribbble.com/shots/11419536-Deep-Working" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXd4djJ4b292aXp0MHhqb2p6NHlsMWFoNmVocHZmOTcyanM5aDJzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RgyQoh6N306jTUw8w4/giphy.gif" width="500" height="310" />
 
 - 🎨 **Design Tools:** Figma, Adobe XD, Sketch, Webflow, Framer, Squarespace
 
