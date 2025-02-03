@@ -33,7 +33,7 @@ When I'm not designing, I usually go cafe hunting or take a break into nature wh
 
 - 📫 **How to reach me:** [@johnmnalzaro](https://instagram.com/johnmnalzaro)
 
-- ⚡ **Fun fact:** When I need to refresh I spend time in nature and the outdoors.
+- ⚡ **Fun fact:** I have two cats.
 
 <!-- About section: END -->
 
