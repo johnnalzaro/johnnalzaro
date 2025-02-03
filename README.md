@@ -13,13 +13,13 @@
  <!-- About section -->
 
 ---
-✨ I'm a **website and UX/UI designer** passionate about creating intuitive, innovative, and user-friendly web experiences. I focus on making sure websites not only look good but also function seamlessly for users.
+✨ I'm a **website designer** passionate about creating intuitive, innovative, enhanced user-friendly websites. I focus on making sure websites not only look good but also function seamlessly for users.
 
-I specialise in **UX/UI design**, **frontend development**, and **responsive web design**, ensuring that every interaction is smooth and engaging. My design concept revolves around usability, accessibility, and performance optimisation.
+I specialise in **website design**, **search engine optimisation**, and **digital marketing**, ensuring that every interaction is smooth and engaging. My design concept revolves around usability, accessibility, and performance optimisation.
 
 Now I'm currently working on developing and designing for a website for hair salon business called Haeyoom.
 
-When I'm not designing, you can find me exploring new web trends, improving my skills in **Figma, HTML, CSS, and JavaScript**, and staying up to date with the latest in web development.
+When I'm not designing, I usually go cafe hunting or take a break into nature while also improving my skills in **Figma, Framer, Webflow, HTML, CSS, and JavaScript**, and if I have enough spare time, I'm also learning Japanese on the side.
 
 
 <!-- code gif-->
